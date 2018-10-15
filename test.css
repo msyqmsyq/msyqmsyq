@@ -1,0 +1,24 @@
+#content{
+}
+#content td{
+	width: 40px;
+	height: 40px;
+	cursor: pointer;
+}
+.item{
+	width: 40px;
+	height: 40px;
+	border-radius: 20px;
+}
+.black{
+	background-color: black;
+}
+.red{
+	background-color: white;
+}
+.fl{
+	float: left;
+}
+table{
+	background-image: url('32a70a608e23c90ebac2ab960aa05098.jpg');
+}
